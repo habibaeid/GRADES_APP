@@ -1,0 +1,16 @@
+ * TASK DETAILS: add, delete, read, list, update
+ * Each student has:
+ * ID -> num
+ * name -> string
+ * degree -> array[3]
+ * comment -> string
+ * 
+ * ADD -> ALL OBLIGATORY except comment, no repetitive IDs (unique)
+ * when pushing in add--> add total(grades) (not inputed in terminal (sum of els in array))
+ * 
+ * DELETE -> remove record by id
+ * READ -> by ID
+ * list --> display names and total(grades)
+ * 
+ * update --> in name ONLY , takes id and changes in name
+ * HINT-> 

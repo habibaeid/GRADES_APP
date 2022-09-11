@@ -1,0 +1,37 @@
+[
+  {
+    "id": 200,
+    "name": "Ali",
+    "degree": [95, 80, 70],
+    "comment": "Good",
+    "total": 245
+  },
+  {
+    "id": 50,
+    "name": "Ahmed",
+    "degree": [95, 70, 90],
+    "comment": "V. Good",
+    "total": 255
+  },
+  {
+    "id": 10,
+    "name": "Habiba",
+    "degree": [90, 70, 60],
+    "comment": "Good",
+    "total": 220
+  },
+  {
+    "id": 20,
+    "name": "Salma",
+    "degree": [75, 90, 70],
+    "comment": "V. Good",
+    "total": 235
+  },
+  {
+    "id": 30,
+    "name": "Nour",
+    "degree": [80, 95, 85],
+    "comment": "Excellent",
+    "total": 260
+  }
+]
